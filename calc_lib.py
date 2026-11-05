@@ -28,3 +28,7 @@ def power(a,b):
     """THIS IS A NEW FUNCTION... Power a^b"""
     return a**b
 
+def f1(a,b)
+    """ precision * recall / prescision + recall """
+    return 2*( (a * b) / (a + b) )
+
